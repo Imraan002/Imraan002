@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Imraan002
 - 👀 I’m interested in software engineering
 - 💕Loves Competitive Programming and poetry
-- 🌱 I’m currently a BCA final year student
+- 🌱 I’m currently a MCA student
 - 📫 How to reach me--> imran2hosain@gmail.com
 
 <!---
